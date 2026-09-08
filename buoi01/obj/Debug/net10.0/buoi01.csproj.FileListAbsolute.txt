@@ -1,0 +1,14 @@
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\bin\Debug\net10.0\buoi01.exe
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\bin\Debug\net10.0\buoi01.deps.json
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\bin\Debug\net10.0\buoi01.runtimeconfig.json
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\bin\Debug\net10.0\buoi01.dll
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\bin\Debug\net10.0\buoi01.pdb
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.AssemblyInfoInputs.cache
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.AssemblyInfo.cs
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.csproj.CoreCompileInputs.cache
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.dll
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\refint\buoi01.dll
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.pdb
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.genruntimeconfig.cache
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\ref\buoi01.dll
