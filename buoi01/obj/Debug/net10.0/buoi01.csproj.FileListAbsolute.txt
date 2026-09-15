@@ -12,3 +12,4 @@ C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\refint\buoi01.dll
 C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.pdb
 C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.genruntimeconfig.cache
 C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\ref\buoi01.dll
+C:\HOC_DHSG\BaiCaNhanC#\buoi01\obj\Debug\net10.0\buoi01.sourcelink.json
