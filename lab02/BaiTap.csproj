@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <StartupObject>LTCsharp.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="practice1.cs" />
+    <Compile Include="testcase1.cs" />
+    <Compile Include="practice2.cs" />
+    <Compile Include="testcase2.cs" />
+  </ItemGroup>
+
+  <!-- Cho phép project test xUnit truy cập các class internal -->
+  <ItemGroup>
+    <InternalsVisibleTo Include="Buoi2.Tests" />
+  </ItemGroup>
+
+</Project>
